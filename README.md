@@ -1,12 +1,16 @@
+# react-jsonschema-form-editor-prototype
+
 Prototype for editing forms in real time for the react-jsonschema-form package. I used this prototype as an opportunity to learn about how to use the React framework.
 
-## What I would do differently next time
-* Create smaller components. Each component should have a single purpose and I will utilize composited components more often
-* Stop using react-app-rewired. In this project I used it to add a plugin to the build pipeline, but now it's tricky to update the 'core' packages, which is a development feature we don't want to lose
-
+### Versions
+```
+webpack				4.41.5
+TypeScript 			3.7.5
+node: 				12.18.3 LTS
+react:              
+```
 
 ##
-
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
