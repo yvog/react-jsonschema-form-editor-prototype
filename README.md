@@ -6,8 +6,7 @@ Prototype for editing forms in real time for the react-jsonschema-form package. 
 ```
 webpack				4.41.5
 TypeScript 			3.7.5
-node: 				12.18.3 LTS
-react:              
+node: 				12.18.3 LTS             
 ```
 
 ##
